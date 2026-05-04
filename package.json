@@ -46,3 +46,6 @@
     "vite-tsconfig-paths": "^6.0.5"
   }
 }
+"engines": {
+  "node": "22.x"
+}
